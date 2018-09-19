@@ -37,6 +37,10 @@ Do what you say you will do. Be on time for meetings. Don't miss deadlines. Spea
 
 ## What they can expect from me
 
+**I will lead by example.**
+
+All of the things I expect from my team, I expect from myself too. I hold myself to the same standard. 
+
 **I will provide clarity.**
 
 You should know what to be working on and have an idea of how your work applies to wider company goals. I will be decisive when you come to me with questions or need feedback. I will be clear and consistent in how I communicate. 
@@ -51,7 +55,7 @@ I will reply to Slack messages, emails, and meeting requests as quickly as I can
 
 **I will cultivate an inclusive and healthy environment.** 
 
-I want to create an environment where people feel comfortable to push themselves, despite the risk of failing. I will bring my whole (sometimes messy) self to work. I will lead by example by taking time off when I need it and prioritizing my own self care. I will continue to educate myself on how I can be a better ally to marginalized folks. I will admit when I'm wrong.
+I want to create an environment where people feel comfortable to push themselves, despite the risk of failing. I will bring my whole (sometimes messy) self to work. I will take time off when I need it and prioritize my own self care. I will continue to educate myself on how I can be a better ally to marginalized folks. I will admit when I'm wrong.
 
 
 ## How I work with my direct reports
