@@ -13,34 +13,34 @@ I am on a journey to being a better manager, coworker, ally, and person. I appre
 
 ## What I expect from my team
 
-### Be communicative. 
+**Be communicative.**
 Ask questions. Share work early. Leave a paper trail behind your work. Write documentation. Speak up if you don’t agree with something. Ask more questions.
 
-### Be thoughtful.
+**Be thoughtful.**
 Think through all possibilities. Don’t overlook details. Don’t do anything lazily. Realize the impact of the work you’re doing.
 
-### Be proactive. 
+**Be proactive.**
 Don’t wait to be asked to do something. Seek out answers to your questions. Find clarity in the undefined. Look many steps ahead. 
 
-### Be helpful. 
+**Be helpful.** 
 Look for ways to make things better for those around you. Support and encourage your coworkers. 
 
-### Be dependable. 
+**Be dependable.** 
 Do what you say you will do. Be on time for meetings and deadlines. Speak up as soon as you think you might not be able to.
 
 
 ## What they can expect from me
 
-### I will provide clarity. 
+**I will provide clarity.**
 You should know what to be working on and have an idea of how your work applies to wider company goals. I will be decisive when you come to me with questions or need feedback. I will be clear and consistent in how I communicate. 
 
-### I will be honest. 
+**I will be honest.** 
 I will give you direct, timely, and actionable feedback. I promise to answer any question or concern that you come to me with as best I can, even if it means saying “I don’t know.” If I don’t know, I will do my best to find an answer. 
 
-### I will be available. 
+**I will be available.** 
 I’ll reply to Slack messages, emails, and meeting requests as quickly as I can (during reasonable hours!). I won’t miss or cancel our weekly 1:1s. You shouldn’t be waiting on me for anything. I will prioritize design feedback and code reviews. I will be present and ready to help you do your best work.
 
-### I will cultivate a healthy environment. 
+**I will cultivate a healthy environment.** 
 I want to create an environment where people feel comfortable to push themselves, despite the risk of failing. I will bring my whole (sometimes messy) self to work. I will lead by example by taking time off when I need it and prioritizing my own self care.
 
 
