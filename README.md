@@ -67,7 +67,7 @@ I want to create an environment where people feel comfortable to push themselves
 * The team has semi-regular, ad-hoc design reviews. I put these on the calendar when we have work to share that can benefit from informal feedback from other designers. These reviews are casual and supportive.
 
 ### Communication
-* I hate being micromanaged and assume everyone on my team feels the same way. I trust that if you have questions or are going to be late with work, then you’ll speak up. For this reason, I don’t like to check in with you too often.
+* I hate being micromanaged and assume everyone on my team feels the same way. I trust that if you have questions or are going to be late with work, then you’ll speak up. For this reason, I don’t like to check in with you too often. If you prefer a more involved leadership style, let me know and we can put structures in place to make sure you are supported.
 * I consider writing to be the most important design skill. This is especially important since we work remotely and asynchronously. I value written communication and appreciate when thought has been put into ensuring that it’s in the right medium (Slack/GitHub/e-mail/Google Docs).
 
 ### Feedback
