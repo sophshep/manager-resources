@@ -4,12 +4,13 @@ I find it takes at least 6 months of working with someone to build an understand
 
 ## The TL;DR
 
-I love working, but I love not working more. I value my personal relationships and hobbies above anything else.
-I find that the strongest and most fulfilling work comes from collaboration.
-I am motivated by recognition and praise. I wish I didn’t have an ego, but I am human and I do.
-I am even-keeled and do not often get angry or overly excited.
-I am an introvert and need quiet time for recharging and thinking.
-I am on a journey to being a better manager, coworker, ally, and person. I appreciate feedback when I fall short.
+* I love working, but I love not working more. I value my personal relationships and hobbies above anything else.
+* I find that the strongest and most fulfilling work comes from collaboration.
+* I am motivated by recognition and praise. I wish I didn’t have an ego, but I am human and I do.
+* I am an introvert and need quiet time for recharging and thinking.
+* I am even-keeled and do not often get angry or overly excited.
+* I have a tendency to over-commit myself.
+* I am on a journey to being a better manager, coworker, ally, and person. I appreciate feedback when I fall short.
 
 ## What I expect from my team
 
