@@ -1,6 +1,6 @@
 # Sophie's README
 
-I find it takes at least 6 months of working with someone to build an understanding of what it’s like. It takes lived experiences to learn their preferred communication style, what stresses them out, what motivates them, and what they value most. The goal of this README is speed up and democratize that process for folks working with me.
+I find it takes at least 6 months of working with someone to learn their preferred communication style, what stresses them out, what motivates them, and what they value most. The goal of this README is speed up and democratize that process for folks working with me.
 
 ## The TL;DR
 
@@ -10,7 +10,7 @@ I find it takes at least 6 months of working with someone to build an understand
 * I am an introvert and need quiet time for recharging and thinking.
 * I am even-keeled and do not often get angry or overly excited.
 * I have a tendency to over-commit myself.
-* I am on a journey to being a better manager, coworker, ally, and person. I appreciate feedback when I fall short.
+* I am on a journey to being a better manager, coworker, ally, and person. I try not to lean on others to do this work for me, but welcome feedback when I fall short.
 
 ## What I expect from my team
 
@@ -28,11 +28,11 @@ Don’t wait to be asked to do something. Seek out answers to your questions. Fi
 
 **Be helpful.** 
 
-Look for ways to make things better for those around you. Support and encourage your coworkers. 
+Look for ways to make things better for those around you. Support and encourage your coworkers. Use your experiences and priviledges to lift others up.
 
 **Be dependable.** 
 
-Do what you say you will do. Be on time for meetings and deadlines. Speak up as soon as you think you might not be able to.
+Do what you say you will do. Be on time for meetings. Don't miss deadlines. Speak up as soon as you think you might not be able to.
 
 
 ## What they can expect from me
@@ -47,18 +47,18 @@ I will give you direct, timely, and actionable feedback. I promise to answer any
 
 **I will be available.** 
 
-I’ll reply to Slack messages, emails, and meeting requests as quickly as I can (during reasonable hours!). I won’t miss or cancel our weekly 1:1s. You shouldn’t be waiting on me for anything. I will prioritize design feedback and code reviews. I will be present and ready to help you do your best work.
+I will reply to Slack messages, emails, and meeting requests as quickly as I can (during reasonable hours!). I won’t miss or cancel our weekly 1:1s. I will prioritize design feedback and code reviews. I will be present and ready to help you do your best work.
 
-**I will cultivate a healthy environment.** 
+**I will cultivate an inclusive and healthy environment.** 
 
-I want to create an environment where people feel comfortable to push themselves, despite the risk of failing. I will bring my whole (sometimes messy) self to work. I will lead by example by taking time off when I need it and prioritizing my own self care.
+I want to create an environment where people feel comfortable to push themselves, despite the risk of failing. I will bring my whole (sometimes messy) self to work. I will lead by example by taking time off when I need it and prioritizing my own self care. I will continue to educate myself on how I can be a better ally to marginalized folks. I will admit when I'm wrong.
 
 
 ## How I work with my direct reports
 
 ### Meetings
 * Every week we will have a 30-minute 1:1. This is an opportunity to discuss existential life things, career growth, active projects, or to just shoot the shit. What we do with that time is up to you. I ask that you fill out the 1:1 issue template ahead of time to help us make the most of the time.
-* On Mondays, we have a cross-functional team meeting to check in, discuss what we’re working on, share work, and overcome and blockers.
+* On Mondays, we have a cross-functional team meeting to check in, discuss what we’re working on, share work, and overcome any blockers.
 * I may sit in on project-meetings that you’re involved in so that I can be looped-in and know how best to support you.
 * The team has semi-regular, ad-hoc design reviews. I put these on the calendar when we have work to share that can benefit from informal feedback from other designers. These reviews are casual and supportive.
 
@@ -69,3 +69,4 @@ I want to create an environment where people feel comfortable to push themselves
 ### Feedback
 * I give positive or constructive feedback in real time, and am conscious of where I am leaving it. Nothing in formal reviews should be a surprise.
 * I love receiving feedback about my own performance, but realize that it can be awkward to give it. Please feel free to speak directly to my manager, your coworkers, or even HR if you think there is something I can be doing to improve.
+* I am a big believer in Lara Hogan's [feedback equation](https://larahogan.me/blog/feedback-equation/).
