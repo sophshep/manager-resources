@@ -61,7 +61,7 @@ I want to create an environment where people feel comfortable to push themselves
 ## How I work with my direct reports
 
 ### Meetings
-* Every week we will have a 30-minute 1:1. This is an opportunity to discuss existential life things, career growth, active projects, or to just shoot the shit. What we do with that time is up to you. I ask that you fill out the 1:1 issue template ahead of time to help us make the most of the time.
+* Every week we will have a 30-minute 1:1. This is an opportunity to discuss existential life things, career growth, active projects, or to just shoot the shit. What we do with that time is up to you. I ask that you fill out the [1:1 issue template](https://github.com/sophshep/manager-resources/blob/master/1-1-issue-template.md) ahead of time to help us make the most of the time.
 * On Mondays, we have a cross-functional team meeting to check in, discuss what we’re working on, share work, and overcome any blockers.
 * I may sit in on project-meetings that you’re involved in so that I can be looped-in and know how best to support you.
 * The team has semi-regular, ad-hoc design reviews. I put these on the calendar when we have work to share that can benefit from informal feedback from other designers. These reviews are casual and supportive.
