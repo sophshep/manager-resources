@@ -28,7 +28,7 @@ Don’t wait to be asked to do something. Seek out answers to your questions. Fi
 
 **Be helpful.** 
 
-Look for ways to make things better for those around you. Support and encourage your coworkers. Use your experiences and priviledges to lift others up.
+Look for ways to make things better for those around you. Support and encourage your coworkers. Use your experiences and privileges to lift others up.
 
 **Be dependable.** 
 
