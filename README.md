@@ -58,9 +58,9 @@ I will reply to Slack messages, emails, and meeting requests as quickly as I can
 I want to create an environment where people feel comfortable to push themselves, despite the risk of failing. I will bring my whole (sometimes messy) self to work. I will take time off when I need it and prioritize my own self care. I will continue to educate myself on how I can be a better ally to marginalized folks. I will admit when I'm wrong.
 
 
-## How I work for my direct reports*
+## How I work for my direct reports
 
-* To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_178), "I believe managers work **for** their direct reports". My job is to help you do your best work, and these are some ways I do that.
+To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_178), "I believe managers work **for** their direct reports". My job is to help you do your best work, and these are some ways I do that.
 
 ### Meetings
 * Every week we will have a 30-minute 1:1. This is an opportunity to discuss existential life things, career growth, active projects, or to just shoot the shit. What we do with that time is up to you. I ask that you fill out the [1:1 issue template](https://github.com/sophshep/manager-resources/blob/master/1-1-issue-template.md) ahead of time to help us make the most of the time.
