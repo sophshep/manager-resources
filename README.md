@@ -35,13 +35,13 @@ Look for ways to make things better for those around you. Support and encourage 
 Do what you say you will do. Be on time for meetings. Don't miss deadlines. Speak up as soon as you think you might not be able to.
 
 
-## What they can expect from me
+## What my team can expect from me
 
 **I will lead by example.**
 
 All of the things I expect from my team, I expect from myself too. I hold myself to the same standard. 
 
-**I will provide clarity.**
+**I will provide context and clarity.**
 
 You should know what to be working on and have an idea of how your work applies to wider company goals. I will be decisive when you come to me with questions or need feedback. I will be clear and consistent in how I communicate. 
 
@@ -60,7 +60,7 @@ I want to create an environment where people feel comfortable to push themselves
 
 ## How I work for my direct reports*
 
-* To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_178), "I believe managers work **for** their direct reports". My job is to help you do your best work.
+* To quote [Scott Burns' README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_178), "I believe managers work **for** their direct reports". My job is to help you do your best work, and these are some ways I do that.
 
 ### Meetings
 * Every week we will have a 30-minute 1:1. This is an opportunity to discuss existential life things, career growth, active projects, or to just shoot the shit. What we do with that time is up to you. I ask that you fill out the [1:1 issue template](https://github.com/sophshep/manager-resources/blob/master/1-1-issue-template.md) ahead of time to help us make the most of the time.
